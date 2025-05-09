@@ -36,6 +36,9 @@ Side-by-side comparison of benefits, eligibility, and application complexity for
 
 
 
+## Tech Stack
+
+Python | Streamlit | Gemini Flash 2.0 API | Qdrant Vector Database | Google Generative Embeddings
 
 
 
