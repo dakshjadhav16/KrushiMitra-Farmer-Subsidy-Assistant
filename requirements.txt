@@ -22,11 +22,5 @@ numpy>=1.24.0
 matplotlib>=3.7.0
 plotly>=5.18.0
 
-# Concurrent processing
-concurrent.futures  # Part of Python standard library
-
-# Logging
-logging  # Part of Python standard library
-
 # Optional: for any additional data processing needs
 scikit-learn>=1.3.0
