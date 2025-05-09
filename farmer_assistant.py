@@ -19,7 +19,7 @@ from document_checklist import (
 load_dotenv()
 
 # Configure API keys
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
 if not GOOGLE_API_KEY:
     raise ValueError("Missing GOOGLE_API_KEY environment variable")
 
