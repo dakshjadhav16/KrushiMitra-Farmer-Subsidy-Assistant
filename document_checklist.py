@@ -9,7 +9,7 @@ necessary paperwork before visiting government offices.
 import os
 import pandas as pd
 import streamlit as st
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 from dotenv import load_dotenv
 import google.generativeai as genai
 from qdrant_client import QdrantClient
@@ -27,7 +27,8 @@ if not GOOGLE_API_KEY:
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Initialize the translator
-translator = Translator()
+translator = GoogleTranslator(source='auto', target='hi')
+
 
 # Initialize Qdrant client - using the same client as in the main application
 qdrant_client = QdrantClient(
