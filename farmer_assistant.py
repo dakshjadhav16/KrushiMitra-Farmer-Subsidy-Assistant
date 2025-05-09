@@ -19,7 +19,7 @@ from document_checklist import (
 load_dotenv()
 
 # Configure API keys
-GOOGLE_API_KEY = st.secrets["google"]["GOOGLE_API_KEY"]
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 if not GOOGLE_API_KEY:
     raise ValueError("Missing GOOGLE_API_KEY environment variable")
 
@@ -30,13 +30,9 @@ genai.configure(api_key=GOOGLE_API_KEY)
 translator = GoogleTranslator(source='auto', target='hi')
 
 # Initialize Qdrant client
-QDRANT_URL = st.secrets["qdrant"]["QDRANT_URL"]
-QDRANT_API_KEY = st.secrets["qdrant"]["QDRANT_API_KEY"]
-
-# Initialize Qdrant client with secrets
 qdrant_client = QdrantClient(
-    url=QDRANT_URL,
-    api_key=QDRANT_API_KEY
+    url="https://ae245ab4-d048-42a9-bff3-f32bb853dd3f.eu-west-2-0.aws.cloud.qdrant.io", 
+    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.6Uho4S7-1Yjne4NcJZdLOioFDy2nkfpkPINi39rjzPw"
 )
 
 # Set up Gemini model for chat
