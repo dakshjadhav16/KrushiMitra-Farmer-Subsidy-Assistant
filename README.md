@@ -28,6 +28,14 @@ Side-by-side comparison of benefits, eligibility, and application complexity for
 ## 🖥️ Screenshots
 
 ![ac5ba582-8846-4a68-89a5-f36c69ff14b9](https://github.com/user-attachments/assets/6032c96b-ae72-491c-94a8-550ed3bc303e)
+![WhatsApp Image 2025-05-08 at 12 30 13_0ef61bc5](https://github.com/user-attachments/assets/97eaed8a-08d2-4fc2-b19c-47e37fa83677)
+![WhatsApp Image 2025-05-08 at 12 31 03_331bf689](https://github.com/user-attachments/assets/fd39f1de-b3b8-4ed4-9b2e-f6cfea9f3f04)
+![WhatsApp Image 2025-05-08 at 12 31 33_be01bf1b](https://github.com/user-attachments/assets/9a407fc9-7115-47c2-8a58-f71b104c0456)
+![WhatsApp Image 2025-05-08 at 12 31 47_75e28939](https://github.com/user-attachments/assets/4962a8b2-89d8-4795-8fe1-b0d775310237)
+![WhatsApp Image 2025-05-08 at 12 32 42_45b2fab7](https://github.com/user-attachments/assets/40801be3-fc65-4f94-bc9f-e0f2b1fb62a5)
+
+
+
 
 
 
