@@ -9,7 +9,7 @@ requests>=2.28.0
 beautifulsoup4>=4.11.0
 
 # Google API dependencies
-google-generativeai>=0.8.5  # Updated to match the embed_content function usage
+deep-translator>=1.11.4
 
 # Translation dependencies
 googletrans==4.0.0-rc1  # Using specific version for stability
