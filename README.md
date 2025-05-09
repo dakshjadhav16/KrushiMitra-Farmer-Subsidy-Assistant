@@ -1,16 +1,5 @@
 # KrushiMitra: Farmer Subsidy Assistant
 
-<p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=KrushiMitra" alt="KrushiMitra Logo" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-orange" alt="Version 1.0.0"/>
-  <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"/>
-  <img src="https://img.shields.io/badge/platform-Web-lightgrey" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Streamlit-1.28-FF4B4B" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Gemini Flash 2.0-API-fbbc04" alt="Gemini API"/>
-</p>
 
 > Empowering Indian farmers with simplified access to government subsidies through intelligent conversation, organized documentation, and comparative analysis.
 
@@ -38,11 +27,9 @@ Side-by-side comparison of benefits, eligibility, and application complexity for
 
 ## 🖥️ Screenshots
 
-<p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Chatbot" alt="Chatbot Screenshot" width="250"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Document+Checklist" alt="Document Checklist Screenshot" width="250"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Scheme+Comparison" alt="Scheme Comparison Screenshot" width="250"/>
-</p>
+![ac5ba582-8846-4a68-89a5-f36c69ff14b9](https://github.com/user-attachments/assets/6032c96b-ae72-491c-94a8-550ed3bc303e)
+
+
 
 ## 🔧 Getting Started
 
